@@ -1,1 +1,1 @@
-FROM kkangert/kspider-ui:latest
+FROM kkangert/kspider-ui:v0.0.6
